@@ -1,4 +1,5 @@
 nginx
+redis
 kuaifan/fileview:4.4.0-4
 kuaifan/minder:0.1.3
 #支持私库
