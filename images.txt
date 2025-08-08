@@ -1,5 +1,6 @@
 #docker.io/bitnami/mysql:8.4.5
-xxxxrt666/gpt-sovits:latest-cu126
+#xxxxrt666/gpt-sovits:latest-cu126
+opea/gpt-sovits
 #nginx
 #redis
 #kuaifan/fileview:4.4.0-4
