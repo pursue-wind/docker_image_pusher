@@ -1,4 +1,5 @@
-isokoliuk/mcp-searxng:latest
+node:20
+#isokoliuk/mcp-searxng:latest
 #docker.io/bitnami/mysql:8.4.5
 #ghcr.io/berriai/litellm-database:main-v1.77.1-nightly
 #xxxxrt666/gpt-sovits:latest-cu126
