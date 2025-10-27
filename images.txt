@@ -1,4 +1,5 @@
-node:20
+sombi/comfyui:base-torch2.8.0-cu124
+#node:20
 #isokoliuk/mcp-searxng:latest
 #docker.io/bitnami/mysql:8.4.5
 #ghcr.io/berriai/litellm-database:main-v1.77.1-nightly
